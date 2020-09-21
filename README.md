@@ -1,4 +1,4 @@
-# O3_xianghe
+# FTIR O3 measurements at Xianghe
 
 The files are created with GEOMS format following NDACC. 
 If you use these data in your research, please cite the following publication:
